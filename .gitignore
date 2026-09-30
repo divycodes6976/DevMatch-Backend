@@ -42,3 +42,8 @@ gpt.txt
 notes.txt
 FullStack_Notes.md
 hw.md
+
+# Internal notes & markdown files (only root README.md should be pushed)
+.notes/
+*.md
+!README.md
